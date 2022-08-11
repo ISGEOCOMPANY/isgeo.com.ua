@@ -1,1 +1,1 @@
-# plug_isgeo.com.ua
+# isgeo.com.ua
